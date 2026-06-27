@@ -1,11 +1,14 @@
 My old EEPROM Programmer – try to document for further development.
 
 frant side
-<img width="1000" height="959" alt="pic-33" src="https://github.com/user-attachments/assets/9b58eb45-5991-4526-abfb-74f79a004cbb" />
+
+<img width="400" height="384" alt="pic-333" src="https://github.com/user-attachments/assets/a1c36a71-8607-43df-a85e-2bb214ef5482" />
 
 back side
 
-<img width="1000" height="1052" alt="pic-44" src="https://github.com/user-attachments/assets/bf675c61-77fa-417e-9340-db47d43bc449" />
+<img width="400" height="421" alt="pic-444" src="https://github.com/user-attachments/assets/5310ddbd-184a-4bb5-b364-5405fe0a3932" />
+
+
 
 
 
