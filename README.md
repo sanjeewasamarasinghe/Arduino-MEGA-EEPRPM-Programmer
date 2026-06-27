@@ -43,48 +43,8 @@ Ardiuno program for Read this EEPROM
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
-/*
- AT28C EEPROM Programmer for Arduino Mega
-123456789101112131415161718192021222324252627
-/*
- AT28C EEPROM Programmer for Arduino Mega
- Colin Maykish (github.com/crmaykish)
- 
- 04/17/2016 - original release
- 06/03/2021 - expanded serial port interface
-
- Serial interface supports two commands: read and write
- 
- Read: Reads a single byte at the 16-bit address.
-
-
- Colin Maykish (github.com/crmaykish)
- 
- 04/17/2016 - original release
- 06/03/2021 - expanded serial port interface
-
- Serial interface supports two commands: read and write
- 
- Read: Reads a single byte at the 16-bit address.
-    Format: RDXXXX where XXXX is a hex number,
-      e.g. RD00FF reads the byte at address 0xFF
-      
-    Output: Write the byte in hex format to the serial port
-    
- Write: Writes a byte to the given 16-bit address.
-    Format: WRXXXXYY where XXXX is a hex number and YY is a hex byte,
-    e.g. WRABCD10 writes 0x10 to 0xABCD
-    
-    Output: Write 'DONE' to the serial port if the write was successful
-
- All commands must be terminated with a newline ('\n')
-
-
- Write command requires address and data values be padded with leading 0s to their full length.
- Read command does not require leading 0s
-*/
-
-#define DELAY_TIME    2   // I don't know why this delay is required, but without it, writes are missed frequently
+[program.txt](https://github.com/user-attachments/files/29403432/program.txt)
+#define DELAY_TIME    2   
 
 // Control pins
 #define CHIP_ENABLE   41
@@ -225,9 +185,3 @@ byte readByte(uint16_t addr)
 
 	return data;
 }
-
-
-
-
-
-
