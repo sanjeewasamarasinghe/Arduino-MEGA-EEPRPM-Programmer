@@ -40,6 +40,20 @@ Then I change Some program according to it …
 
 
 Ardiuno program for Read this EEPROM 
+
+
+1-Read
+
+<img width="500" height="375" alt="pic10" src="https://github.com/user-attachments/assets/d0219f46-d602-4245-af9a-24344f0915b5" />
+
+2- Write
+
+<img width="500" height="375" alt="pic11" src="https://github.com/user-attachments/assets/e0d80998-089b-416a-a56e-a9f51766685c" />
+
+3 - Reffer
+
+<img width="500" height="375" alt="pic12" src="https://github.com/user-attachments/assets/fbea7145-5a08-43be-acac-aa5d72f20ab2" />
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
