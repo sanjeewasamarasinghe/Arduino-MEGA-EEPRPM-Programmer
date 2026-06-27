@@ -24,12 +24,13 @@ Links…
 -	https://github.com/crmaykish/AT28C-EEPROM-Programmer-Arduino
 
 I use EEPROM Chip Atmega 8K X 8 bit – AT 28 C 64 K - to program 
-
-
-
-<img width="100" height="175" alt="pic-6666" src="https://github.com/user-attachments/assets/a1905023-4140-4b7b-a7e5-7dcd4e8b9465" />
-
 But in these resources have 32K X 8 bit – AT 28 C 256 K – chip to program
+
+
+
+
+
+<img width="100" height="175" alt="pic-6666" src="https://github.com/user-attachments/assets/cada544c-cc62-4457-8f47-9590be68c5d8" />
 
 Then I change Some program according to it …
 
